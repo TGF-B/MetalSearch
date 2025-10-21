@@ -1,3 +1,3 @@
 # MetalSearch
 ## A text-based miner for metal nanoparticle 
-![scAnalyzer](https://github.com/TGF-B/MetalSearch/workflow.png)
+![MetalSeach](https://github.com/TGF-B/MetalSearch/blob/main/Workflow.png)
